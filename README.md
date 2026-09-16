@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Visual Quality Inspection System
 
 An AI-powered visual quality inspection system that uses computer vision and machine learning to detect defects in manufacturing and production processes. This system provides real-time inspection capabilities with both live camera feed and batch image processing modes.
@@ -312,3 +313,7 @@ For support and questions:
 ---
 
 **Note**: This system is designed for industrial quality inspection applications. Ensure proper calibration and validation for your specific use case before deployment in production environments.
+=======
+# Visual-Quality-Inspection-agent
+AI-powered Visual Quality Inspection system for detecting automotive surface and assembly defects using YOLOv8l, FastAPI, Streamlit, and LangFlow.
+>>>>>>> cebd03d408b242b1b5b70b2bdcf7b2ec514b361f
